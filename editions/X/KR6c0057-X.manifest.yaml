@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0057_000-X.yaml, hash: 'sha256:a37af7ff7bce6252be549f91e4d0dc1670d59dc1831ba8c325b4c5902e3c70fb'}
+  - {seq: 0, filename: KR6c0057_000-X.yaml, hash: 'sha256:f564b932833f27f33be1f3dedb76aa3a6bba6289014a7c95fc17b0d4ca1dba82'}
   - {seq: 1, filename: KR6c0057_001-X.yaml, hash: 'sha256:4ac29a39a108d0a0435a4ea56d75d797a53da62e1dbf94edec70524c7a3a48ce'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0057_000-X.markers.yaml, hash: 'sha256:75afd356234c0b4f67d9849212d64b1f3203d7f6ca81a651ad5e65cbec749a7d'}
+  - {seq: 0, role: markers, filename: assets/KR6c0057_000-X.markers.yaml, hash: 'sha256:b5a4ddec5789564c610591c074767a7012d52c16ec45a4e19f779943af31eb3a'}
   - {seq: 1, role: markers, filename: assets/KR6c0057_001-X.markers.yaml, hash: 'sha256:91b459a843989636b2ff0ee43dc0c728f14277ff25c9214dceafb1ab16ec1c68'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0057_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 469-A
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0057_X_000-mulu-2
     span:
-    - front
+    - body
     - 65
     - 65
   label: No. 469-B
@@ -385,4 +385,4 @@ table_of_contents:
   label: 應化非真分第三十二
   type: mulu
   level: 1
-hash: sha256:252ffa47d97442196b4e6540e9fa59cdad0504015c5e282168d40aead0a200e2
+hash: sha256:6a2cdd549970820dd32207b7a77de2d4a1fdeb0a413eb223fd6b3b597d450cee
